@@ -1,2 +1,4 @@
 # ine5646-tarefa1
-Atividade: gerando uma página com layout
+Disciplina INE5646 (2020.1)
+
+Link da página da "Atividade: gerando uma página com layout": https://pedroabcorte.github.io/ine5646-tarefa1/
